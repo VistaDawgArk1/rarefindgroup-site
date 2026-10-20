@@ -1,6 +1,7 @@
 /* Shared styles for rarefindgroup.com, following the Bottle Chase brand board: charcoal background, gold and
    whiskey-amber accents, cream text. Headings use Cinzel (a free web font in the style of the board's Trajan Pro);
-   body text uses Montserrat. */
+   body text uses Montserrat. When you change this file, bump the ?v= number in every page's <link> to it so
+   browsers fetch the new copy. */
 :root {
   --charcoal: #0d1212;
   --surface: #161a1a;
