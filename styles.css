@@ -1,4 +1,4 @@
-/* Shared styles for rarefindgroup.com, following the Bottle Chase brand board: charcoal background, gold and
+/* Shared styles for rarefindgroup.com, following the BottleProof brand board: charcoal background, gold and
    whiskey-amber accents, cream text. Headings use Cinzel (a free web font in the style of the board's Trajan Pro);
    body text uses Montserrat. When you change this file, bump the ?v= number in every page's <link> to it so
    browsers fetch the new copy. */
@@ -55,7 +55,7 @@ ul { padding-left: 22px; }
 li { margin: 5px 0; }
 strong { color: var(--cream); }
 
-/* Bottle Chase hero: the full logo lockup, faded into the page at its edges */
+/* BottleProof hero: the full logo lockup, faded into the page at its edges */
 .hero { padding: 28px 0 8px; text-align: center; background: radial-gradient(ellipse at 50% 40%, #1f1a14 0%, var(--charcoal) 70%); }
 .hero .logo {
   display: block;
